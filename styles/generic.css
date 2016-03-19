@@ -1,5 +1,0 @@
-NameError: variable @color-shadow is undefined in C:\Users\amrazek\Dropbox\PhpstormProjects\roomsharing.cz\styles\generic.less on line 35, column 32:
-34 .shadow-left {
-35   .box-shadow(2px 0px 2px 0px, @color-shadow);
-36 }
-
