@@ -1,0 +1,5 @@
+NameError: .transform is undefined in C:\Users\amrazek\Dropbox\PhpstormProjects\roomsharing.cz\styles\depricated.less on line 17, column 3:
+16   @string:rotate(90deg);
+17   .transform(@string);
+18   left: -20px;
+

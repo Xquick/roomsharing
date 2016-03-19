@@ -1,0 +1,30 @@
+.infoBox {
+  width: 260px;
+  height: 235px;
+  padding: 10px;
+  border-radius: 11px;
+  background: white;
+}
+.infoBox .info-description-location {
+  font-size: 20px;
+}
+.infobox-gallery.post-photo {
+  margin: 0 auto;
+  height: 170px !important;
+  overflow: hidden;
+}
+.mapp-ib-close {
+  display: none !important;
+}
+.infoBox .info-description-price {
+  z-index: 999;
+  bottom: 23px;
+  font-size: 24px;
+}
+.infoBox .post-icons {
+  height: 0px;
+  z-index: 9;
+}
+.infoBox > img {
+  display: none !important;
+}
