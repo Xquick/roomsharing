@@ -1,0 +1,5 @@
+NameError: variable @color-error is undefined in C:\Users\amrazek\Dropbox\PhpstormProjects\roomsharing.cz\styles\infobubble.less on line 13, column 15:
+12 .error-message {
+13   background: @color-error;
+14 }
+

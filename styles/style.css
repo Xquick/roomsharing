@@ -1,0 +1,17 @@
+[WARNING] Please install gem 'therubyracer' to use Less.
+C:/Ruby21/lib/ruby/2.1.0/rubygems/core_ext/kernel_require.rb:55:in `require': cannot load such file -- v8 (LoadError)
+	from C:/Ruby21/lib/ruby/2.1.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from C:/Ruby21/lib/ruby/gems/2.1.0/gems/less-2.6.0/lib/less/java_script/v8_context.rb:2:in `<top (required)>'
+	from C:/Ruby21/lib/ruby/2.1.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from C:/Ruby21/lib/ruby/2.1.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from C:/Ruby21/lib/ruby/gems/2.1.0/gems/less-2.6.0/lib/less/java_script.rb:9:in `default_context_wrapper'
+	from C:/Ruby21/lib/ruby/gems/2.1.0/gems/less-2.6.0/lib/less/java_script.rb:17:in `context_wrapper'
+	from C:/Ruby21/lib/ruby/gems/2.1.0/gems/less-2.6.0/lib/less/loader.rb:13:in `initialize'
+	from C:/Ruby21/lib/ruby/gems/2.1.0/gems/less-2.6.0/lib/less.rb:14:in `new'
+	from C:/Ruby21/lib/ruby/gems/2.1.0/gems/less-2.6.0/lib/less.rb:14:in `<module:Less>'
+	from C:/Ruby21/lib/ruby/gems/2.1.0/gems/less-2.6.0/lib/less.rb:9:in `<top (required)>'
+	from C:/Ruby21/lib/ruby/2.1.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from C:/Ruby21/lib/ruby/2.1.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from C:/Ruby21/lib/ruby/gems/2.1.0/gems/less-2.6.0/bin/lessc:3:in `<top (required)>'
+	from C:/Ruby21/bin/lessc:23:in `load'
+	from C:/Ruby21/bin/lessc:23:in `<main>'

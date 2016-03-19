@@ -1,0 +1,5 @@
+NameError: variable @border-color is undefined in C:\Users\amrazek\Dropbox\PhpstormProjects\roomsharing.cz\styles\main.less on line 78, column 21:
+77   box-shadow: none;
+78   border: 1px solid @border-color;
+79   padding: 9px;
+
